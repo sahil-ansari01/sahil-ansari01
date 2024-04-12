@@ -5,7 +5,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sahilansari01?label=Follow)](https://twitter.com/intent/follow?screen_name=sahilansari01)
-[![Linkedin: anmol](https://img.shields.io/badge/-sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilansari01/)](https://www.linkedin.com/in/sahilansari01/)
+[![Linkedin: sahil](https://img.shields.io/badge/-sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilansari01/)](https://www.linkedin.com/in/sahilansari01/)
 ![GitHub followers](https://img.shields.io/github/followers/sahilansari01?label=Follow&style=social)
 
 ### 📫 Like to meet me?
