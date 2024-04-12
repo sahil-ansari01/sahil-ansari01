@@ -4,8 +4,8 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sahilansari01?label=Follow)](https://twitter.com/intent/follow?screen_name=sahilansari01)
 [![Linkedin: sahil](https://img.shields.io/badge/-sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilansari01/)](https://www.linkedin.com/in/sahilansari01/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sahilansari01?label=Follow)](https://twitter.com/intent/follow?screen_name=sahilansari01)
 [![GitHub followers](https://img.shields.io/github/followers/sahilansari01?label=Followers&style=social)](https://github.com/sahilansari01)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtGKTv9O8srPEFcvBYY0nkQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UCtGKTv9O8srPEFcvBYY0nkQ)
 
