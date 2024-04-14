@@ -23,7 +23,7 @@ const sahil = {
     pronouns: "He" | "Him",
     code: ["Javascript","HTML", "CSS", "Java", "C++", "C#"],
     frameworks: ["BootStrap", "jQuery"],
-    askMeAbout: ["web dev", "tech", "AR/VR", "photography"],
+    askMeAbout: ["web dev", "tech", "AR/VR", "photography", "reading"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
