@@ -54,7 +54,7 @@ const sahil = {
 
 > 📦 185.7 kB Used in GitHub's Storage 
  > 
-> 📜 58 Public Repositories 
+> 📜 57 Public Repositories 
  > 
 > 🔑 13 Private Repositories 
  > 
