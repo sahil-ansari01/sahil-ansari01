@@ -21,22 +21,20 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const sahil = {
     pronouns: "He" | "Him",
-    code: ["Javascript","HTML", "CSS", "Java", "C++", "C#"],
-    frameworks: ["BootStrap", "jQuery"],
-    askMeAbout: ["web dev", "tech", "AR/VR", "photography", "reading"],
+    code: ["JavaScript", "HTML", "CSS", "SQL", "NoSQL"],
+    frameworks: ["Bootstrap", "jQuery"],
+    askMeAbout: ["backend development", "web dev", "tech", "data structures", "algorithms"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node.js", "Express.js"],
         },
-        gameApp: {
-            native: ["Unity3D"]
-        },
-        devOps: ["AWS"],
-        databases: ["MySql", "sequelize"],
-        misc: ["Firebase"]
+        authentication: ["JWT", "bcrypt"],
+        devOps: ["AWS", "Docker"],
+        databases: ["MySQL", "MongoDB", "Sequelize"],
+        misc: ["Firebase"],
     },
-    currentFocus: "Getting an Internship",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Preparing for backend development roles and mock interviews",
+    funFact: "There are two ways to write error-free programs; only the third one works",
 };
 ```
 
