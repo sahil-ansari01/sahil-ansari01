@@ -1,41 +1,49 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>(As-Salaam)🤝, I'm Sahil Ansari! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> (As-Salaam) 🤝, I'm Sahil Ansari! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Apprentice at <a href="https://www.sharpener.tech/">Sharpener
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
+<p><em>Backend Developer at <a href="https://www.saara.io/" target="_blank">Saara Creative Pvt Ltd.</a> (Jan 2025 - Present)</em><br/>
+<em>Apprentice at <a href="https://www.sharpener.tech/">Sharpener</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Linkedin: sahil](https://img.shields.io/badge/-sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilansari01/)](https://www.linkedin.com/in/sahilansari01/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sahilansari01?label=Follow)](https://twitter.com/intent/follow?screen_name=sahilansari01)
 [![GitHub followers](https://img.shields.io/github/followers/sahil-ansari01?label=Followers&style=social)](https://github.com/sahil-ansari01)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtGKTv9O8srPEFcvBYY0nkQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UCtGKTv9O8srPEFcvBYY0nkQ)
 
+---
 
 ### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+Pick a slot if you'd like to meet me and chat about anything you're passionate about—just make sure to describe the agenda!
 
-<a href="https://calendly.com/sahilansari01/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://cal.com/sahilansari01/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const sahil = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "HTML", "CSS", "SQL", "NoSQL"],
-    frameworks: ["Bootstrap", "jQuery"],
-    askMeAbout: ["backend development", "web dev", "tech", "data structures", "algorithms"],
-    technologies: {
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-        },
-        authentication: ["JWT", "bcrypt"],
-        devOps: ["AWS", "Docker"],
-        databases: ["MySQL", "MongoDB", "Sequelize"],
-        misc: ["Firebase"],
+  pronouns: "He" | "Him",
+  currentPosition: "Backend Developer @ Saara Creative Pvt Ltd.",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL", "NoSQL", "Python"],
+  frameworks: ["Express.js", "NestJS", "Next.js", "Expo", "React Native"],
+  askMeAbout: ["backend development", "architecture", "system design", "API integrations", "KYC systems", "WebSockets", "infra"],
+  technologies: {
+    backEnd: {
+      js: ["Node.js", "Express.js", "NestJS"],
+      python: ["Flask"]
     },
-    currentFocus: "Preparing for backend development roles and mock interviews",
-    funFact: "There are two ways to write error-free programs; only the third one works",
+    devOps: ["Docker", "AWS EC2", "S3", "ECS", "RDS", "Redis", "PM2", "Nginx"],
+    database: ["MongoDB", "PostgreSQL", "MySQL", "Supabase", "Mongoose", "Prisma"],
+    auth: ["JWT", "bcrypt", "Firebase Auth", "OTP via SMS"],
+    realTime: ["Socket.io", "WebSockets", "Chess.js", "Stockfish"],
+    tools: ["Git", "Postman", "Figma", "n8n", "DeepSeek", "VS Code"],
+    misc: ["Firebase", "Razorpay", "Google Meet API", "KYC Verifications"]
+  },
+  currentFocus: "Building scalable systems, real-time apps, mock interview prep, and tech blogging",
+  funFact: "There are two ways to write error-free programs; only the third one works 😉"
 };
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
